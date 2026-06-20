@@ -1,2 +1,16 @@
-# Ai-research
-A collection of AI research paper summaries, notes, and small experiments in machine learning and deep learning.
+# AI Research Repository 🤖
+
+This repository contains my journey in Artificial Intelligence and Deep Learning.
+
+## 📌 Content
+- Research paper summaries
+- Study notes in Machine Learning
+- Small experiments using Python
+
+## 🧠 Focus Areas
+- Deep Learning (CNN, etc.)
+- Machine Learning basics
+- Computer Vision
+
+## 🎯 Purpose
+This repo is for learning and documenting my progress in AI.
