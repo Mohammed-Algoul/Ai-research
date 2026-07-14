@@ -1,16 +1,19 @@
-# AI Research Repository 🤖
+# AI Research Portfolio
 
-This repository contains my journey in Artificial Intelligence and Deep Learning.
+Welcome to my AI Research repository.
 
-## 📌 Content
-- Research paper summaries
-- Study notes in Machine Learning
-- Small experiments using Python
+This repository contains my academic research, reports, and machine learning projects.
 
-## 🧠 Focus Areas
-- Deep Learning (CNN, etc.)
-- Machine Learning basics
-- Computer Vision
+## Research Reports
 
-## 🎯 Purpose
-This repo is for learning and documenting my progress in AI.
+- 📄 Failure Modes of Dimensionality Reduction Techniques
+- 🫁 Lung Cancer Detection using Machine Learning
+
+## Technologies
+
+- Machine Learning
+- Pattern Recognition
+- Data Analysis
+- Python
+- Scikit-learn
+- Pandas
