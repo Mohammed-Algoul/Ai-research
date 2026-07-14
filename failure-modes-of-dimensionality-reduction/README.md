@@ -47,7 +47,7 @@ Al-Aqsa University
 Intelligent Systems and Computer Engineering
 
 LinkedIn:
-*(Add your LinkedIn profile here)*
+https://www.linkedin.com/in/eng-mohammed-algoul/
 
 ---
 
